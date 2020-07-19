@@ -1,6 +1,9 @@
 # Ransomware
 A repository of live ransomware samples - do not run these if you don't know what you're doing!
 
+## Licensing
+The License located in LICENSE.md only applies to the run.py file. I did NOT create the ransomware samples ending with ".RANSOM".
+
 ## Disclaimer
 The purpose of this repository is to provide easy access of ransomware samples to researchers.
 
