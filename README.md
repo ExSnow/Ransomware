@@ -28,5 +28,3 @@ This is ran using `py run.py`
 
 ## Organisation
 Executable files are located in the root repository folder.
-
-JavaScript files are located in the `js` folder.
